@@ -1,0 +1,10 @@
+build*/
+.cache/
+.DS_Store
+compile_commands.json
+__pycache__/
+*.pyc
+*.dSYM/
+.claude/settings.local.json
+models/chat/*.gguf
+artifacts/
